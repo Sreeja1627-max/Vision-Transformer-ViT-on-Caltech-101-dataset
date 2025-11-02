@@ -4,13 +4,13 @@
 ---
 
 ##  Objective
-This project implements a Vision Transformer (ViT) from scratch using PyTorch, trained on a Caltech-101 subset to analyze attention-based image classification as part of a deep learning assignment.
+This project implements a Vision Transformer (ViT) from scratch using **PyTorch**, trained on a **Caltech-101 subset** to analyze attention-based image classification as part of a deep learning assignment.
 ---
 
 ##  Dataset
-The model is trained and evaluated on a subset of the Caltech-101 dataset containing multiple object classes such as sunflower, airplane, butterfly, chair, and others.  
+The model is trained and evaluated on a subset of the Caltech-101 dataset containing multiple object classes such as *sunflower*, *airplane*, *butterfly*, *chair*, and others.  
 All images are resized to 224×224 and divided into training and validation sets.  
-The dataset link is provided in `dataset_link.txt`.
+The dataset link is provided in **`dataset_link.txt`**.
 
 ---
 
