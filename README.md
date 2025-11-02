@@ -1,5 +1,5 @@
 # Vision Transformer (ViT) on Caltech-101  
-Author: Sreeja Roychoudhury | Roll No.: 22052067  
+**Author:** Sreeja Roychoudhury | **Roll No.:** 22052067  
 
 ---
 
