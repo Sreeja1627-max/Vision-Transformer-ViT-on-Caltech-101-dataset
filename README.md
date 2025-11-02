@@ -2,7 +2,6 @@
 **Author:** Sreeja Roychoudhury  
 **Roll No:** 22052067  
 **Institution:** KIIT Deemed To Be University  
-**Course:** Deep Learning / Advanced Neural Networks  
 
 ---
 
